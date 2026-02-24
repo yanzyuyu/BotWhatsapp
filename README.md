@@ -136,4 +136,9 @@ ISC
 
 ## 👨‍💻 Author
 
-Made with ❤️
+Made with ❤️ 
+
+## Pembuat
+([yanzyuyu]([https://nodejs.org/](https://github.com/yanzyuyu)))
+
+
